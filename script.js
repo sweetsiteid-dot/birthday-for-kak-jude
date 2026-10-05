@@ -28,12 +28,10 @@ openBtn.addEventListener("click", () => {
         const item = document.createElement("div");
 
         const icons = [
-            "💙",
             "✨",
             "⭐",
             "🎂",
-            "🎈",
-            "♡"
+            "♡",
         ];
 
         item.innerHTML =
@@ -201,7 +199,6 @@ function createHeart(){
 
 
     const icons = [
-        "💙",
         "♡",
         "✨",
         "⭐"
